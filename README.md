@@ -16,7 +16,7 @@ NOTE: You can choose to name the input and predefinedWords files differently as 
 Sentences generated using https://randomwordgenerator.com/sentence.php
 
 ### Assumptions
-* Words are separate by space on each line
+* Words are separated by space on each line
 * apostrophe words will be counted as new words (poodle will not match to poodle's)
 * empty lines will be ignored
 * Only valid words (since requirement details said only English words)
