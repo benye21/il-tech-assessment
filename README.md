@@ -20,6 +20,7 @@ Sentences generated using https://randomwordgenerator.com/sentence.php
 * apostrophe words will be counted as new words (poodle will not match to poodle's)
 * empty lines will be ignored
 * Only valid words (since requirement details said only English words)
+* Only valid sentences (one space between each word per line)
 
 ### What Has Been Tested
 * Testing lowercase and uppercase
